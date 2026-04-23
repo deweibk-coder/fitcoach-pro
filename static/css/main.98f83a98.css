@@ -1,0 +1,2 @@
+*{-webkit-tap-highlight-color:transparent;box-sizing:border-box}body{-webkit-font-smoothing:antialiased;background:#f2f2f7;margin:0}input[type=range]{appearance:none;background:#e5e5ea;border-radius:4px;height:4px;outline:none}input[type=range]::-webkit-slider-thumb{appearance:none;background:#0abfbc;background:var(--thumb-color,#0abfbc);border-radius:50%;box-shadow:0 2px 6px #0003;cursor:pointer;height:22px;width:22px}select{appearance:none}::-webkit-scrollbar{display:none}
+/*# sourceMappingURL=main.98f83a98.css.map*/

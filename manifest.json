@@ -1,0 +1,16 @@
+{
+  "short_name": "FitCoach",
+  "name": "FitCoach Pro 健身教練",
+  "description": "專業力量訓練追蹤與 AI 決策系統",
+  "icons": [
+    { "src": "icon-192.png", "type": "image/png", "sizes": "192x192", "purpose": "any maskable" },
+    { "src": "icon-512.png", "type": "image/png", "sizes": "512x512", "purpose": "any maskable" }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#0ABFBC",
+  "background_color": "#F2F2F7",
+  "lang": "zh-TW",
+  "categories": ["health", "fitness"]
+}
